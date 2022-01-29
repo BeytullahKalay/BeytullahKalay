@@ -14,7 +14,7 @@ Skills: C# / C++ / C
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BeytullahKalay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/beytullah-kalay//)  
 
 **I can use:**
-![UnityIcon](https://img.icons8.com/ios-filled/2x/unity.png) ![VisualStudioIcon](https://img.icons8.com/color/2x/visual-studio-2019.png)![VisualCodeIcon](https://img.icons8.com/fluency/2x/visual-studio-code-2019.png)
+![UnityIcon](https://img.icons8.com/wired/2x/unity.png) ![VisualStudioIcon](https://img.icons8.com/color/2x/visual-studio-2019.png)![VisualCodeIcon](https://img.icons8.com/fluency/2x/visual-studio-code-2019.png)
 
 
 
