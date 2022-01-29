@@ -2,8 +2,6 @@
 #### Game Developer and Gameplay Programmer
 ![Game Developer and Gameplay Programmer](https://pbs.twimg.com/profile_images/1331536290542743552/Hl3uW02w_400x400.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: C# / C++ / C
 
 - 🔭 I’m currently working on graduation prjojetc 
