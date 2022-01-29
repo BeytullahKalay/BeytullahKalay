@@ -1,4 +1,4 @@
-### Hi there 👋, Beytullah Kalay
+### Hi there 👋, I am Beytullah Kalay
 #### *Game Developer and Gameplay Programmer*
 ![Game Developer and Gameplay Programmer](https://pbs.twimg.com/profile_images/1331536290542743552/Hl3uW02w_400x400.jpg)
 
