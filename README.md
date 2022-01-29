@@ -6,7 +6,7 @@ I'm a final year computer engineering student. I love playing and making compute
 
 Skills: C# / C++ / C
 
-- 🔭 I’m currently working on graduation prjojetc 
+- 🔭 I’m currently working on graduation project 
 - 🌱 I’m currently learning Unity, C# and Game Design Patterns 
 - 📫 How to reach me: beytullah.kalay@outlook.com 
 
