@@ -10,9 +10,11 @@ Skills: C# / C++ / C
 - 🌱 I’m currently learning Unity, C# and Game Design Patterns 
 - 📫 How to reach me: beytullah.kalay@outlook.com 
 
+**Connect with me:**
 
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/beytullah-kalay/)  
 
+**Tools:**
 
 ![UnityIcon](https://img.icons8.com/ios-filled/2x/ffffff/unity.png) ![VisualStudioIcon](https://img.icons8.com/color/2x/visual-studio-2019.png)![VisualCodeIcon](https://img.icons8.com/fluency/2x/visual-studio-code-2019.png)
 
