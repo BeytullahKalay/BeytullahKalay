@@ -18,7 +18,9 @@ I'm a final year computer engineering student. I love playing and making compute
 
 **Tools:**
 
-<img src='https://cdn.worldvectorlogo.com/logos/discord.svg' alt='discord' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/unity-69.svg' alt='unity' height='50'> <img src='https://img.icons8.com/color/344/visual-studio-2019.png' alt='visualstudio' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg' alt='visualstudiocode' height='50'>
+<img src='https://cdn.worldvectorlogo.com/logos/discord.svg' alt='discord' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/unity-69.svg' alt='unity' height='50'> <img src='https://img.icons8.com/color/344/visual-studio-2019.png' alt='visualstudio' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg' alt='visualstudiocode' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/trello.svg' alt='trello' height='50'> <img src='https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/77/b2/b7/77b2b77c-cafe-780c-b7ea-1ff467dc04cf/source/512x512bb.jpg' alt='trello' height='50'>
+
+
 
 
 
