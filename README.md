@@ -16,8 +16,10 @@ Skills: C# / C++ / C
 
 **Technologies:**
 
-**Tools:**
 <img src='https://cdn.worldvectorlogo.com/logos/c--4.svg' alt='linkedin' height='50'>
+
+**Tools:**
+
 
 ![UnityIcon](https://img.icons8.com/ios-filled/2x/ffffff/unity.png) ![VisualStudioIcon](https://img.icons8.com/color/2x/visual-studio-2019.png)![VisualCodeIcon](https://img.icons8.com/fluency/2x/visual-studio-code-2019.png)
 
