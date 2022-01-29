@@ -4,8 +4,6 @@
 
 I'm a final year computer engineering student. I love playing and making computer games. 
 
-Skills: C# / C++ / C
-
 - 🔭 I’m currently working on graduation project 
 - 🌱 I’m currently learning Unity, C# and Game Design Patterns 
 - 📫 How to reach me: beytullah.kalay@outlook.com 
@@ -16,10 +14,9 @@ Skills: C# / C++ / C
 
 **Technologies:**
 
-<img src='https://cdn.worldvectorlogo.com/logos/c--4.svg' alt='linkedin' height='50'>
+<img src='https://cdn.worldvectorlogo.com/logos/c--4.svg' alt='linkedin' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/c.svg' alt='linkedin' height='50'>
 
 **Tools:**
-
 
 ![UnityIcon](https://img.icons8.com/ios-filled/2x/ffffff/unity.png) ![VisualStudioIcon](https://img.icons8.com/color/2x/visual-studio-2019.png)![VisualCodeIcon](https://img.icons8.com/fluency/2x/visual-studio-code-2019.png)
 
