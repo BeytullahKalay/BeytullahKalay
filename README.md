@@ -24,6 +24,6 @@ I'm a final year computer engineering student. I love playing and making compute
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BeytullahKalay)  
+//![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BeytullahKalay)  
 
 
