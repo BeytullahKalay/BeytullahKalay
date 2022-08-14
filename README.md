@@ -4,7 +4,7 @@
 
 I'm a final year computer engineering student. I love playing and making computer games. 
 
-- 🔭 I’m currently working on graduation project 
+- 🔭 I’m currently working at Pximal Games
 - 🌱 I’m currently learning Unity, C# and Game Design Patterns 
 - 📫 How to reach me: beytullah.kalay@outlook.com 
 
