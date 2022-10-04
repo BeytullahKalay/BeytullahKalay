@@ -2,7 +2,7 @@
 #### *Game Developer and Gameplay Programmer*
 ![Game Developer and Gameplay Programmer](https://pbs.twimg.com/profile_images/1331536290542743552/Hl3uW02w_400x400.jpg)
 
-I'm a final year computer engineering student. I love playing and making computer games. 
+I'm a computer engineer. I love playing and making computer games. 
 
 - 🔭 I’m currently not working
 - 🌱 I’m currently learning Unity, C# and Game Design Patterns 
