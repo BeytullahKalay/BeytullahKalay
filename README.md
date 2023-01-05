@@ -13,7 +13,7 @@ I'm a computer engineer. I love playing and making computer games.
 
 **Technologies:**
 
-<img src='https://cdn.worldvectorlogo.com/logos/c--4.svg' alt='c#' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/c.svg' alt='c++' height='50'>
+<img src='https://cdn.worldvectorlogo.com/logos/c--4.svg' alt='c#' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/c.svg' alt='c++' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/c-1.svg' alt='c' height='50'>
 
 **Tools:**
 
