@@ -18,5 +18,3 @@ I'm a computer engineer. I love playing and making computer games.
 **Tools:**
 
 <img src='https://cdn.worldvectorlogo.com/logos/discord.svg' alt='discord' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/unity-69.svg' alt='unity' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg' alt='visualstudio' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/trello.svg' alt='trello' height='50'> <img src='https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png' alt='Rider' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='discord' height='50'> 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeytullahKalay)](https://github.com/anuraghazra/github-readme-stats)
