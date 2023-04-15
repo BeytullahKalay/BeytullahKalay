@@ -3,7 +3,7 @@
 
 I'm a computer engineer. I love playing and making computer games. 
 
-- 🔭 I’m currently on my Card Base Defense
+- 🔭 I’m currently on Card Base Defense
 - 🌱 I’m currently learning Unity, C# and Game Design Patterns 
 - 📫 How to reach me: beytullah.kalay@outlook.com 
 
