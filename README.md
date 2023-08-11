@@ -4,7 +4,7 @@
 I'm a computer engineer. I love playing and making computer games. 
 
 - 🔭 I’m currently working on Card Base Defense
-- 🌱 I’m currently learning Unity, C#, Game Design Patterns, Shaders adn Zenject
+- 🌱 I’m currently learning Unity, C#, Game Design Patterns, Shaders and Zenject
 - 📫 How to reach me: beytullah.kalay@outlook.com 
 
 **Connect with me:**
