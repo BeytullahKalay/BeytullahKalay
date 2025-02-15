@@ -9,7 +9,7 @@ I'm a computer engineer. I love playing and making computer games.
 
 **Connect with me:**
 
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/beytullah-kalay/)  
+[<img src='https://skillicons.dev/icons?i=linkedin' height='60'>](https://www.linkedin.com/in/beytullah-kalay/)
 
 **Technologies:**
 
