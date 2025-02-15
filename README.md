@@ -13,8 +13,8 @@ I'm a computer engineer. I love playing and making computer games.
 
 **Technologies:**
 
-<img src='https://cdn.worldvectorlogo.com/logos/c--4.svg' alt='c#' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/c.svg' alt='c++' height='50'>
+<img src='https://skillicons.dev/icons?i=c,cs' height='100'>
 
 **Tools:**
 
-<img src='https://skillicons.dev/icons?i=discord,unity,visualstudio,vscode,git' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/trello.svg' alt='trello' height='50'> <img src='https://skillicons.dev/icons?i=rider' alt='Rider' height='50'>
+<img src='https://skillicons.dev/icons?i=discord,unity,visualstudio,vscode,git' height='100'> <img src='https://cdn.worldvectorlogo.com/logos/trello.svg' alt='trello' height='50'> <img src='https://skillicons.dev/icons?i=rider' alt='Rider' height='50'>
