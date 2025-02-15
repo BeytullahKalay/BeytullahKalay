@@ -3,8 +3,8 @@
 
 I'm a computer engineer. I love playing and making computer games. 
 
-- 🔭 I’m currently working on Card Base Defense
-- 🌱 I’m currently learning Unity, C#, Game Design Patterns, Shaders and Zenject
+- 🔭 I’m currently working on Dead Engine
+- 🌱 I’m currently learning Unity, C#, Game Design Patterns, Shaders, Zenject, Unity Burts and Job System
 - 📫 How to reach me: beytullah.kalay@outlook.com 
 
 **Connect with me:**
