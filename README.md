@@ -17,4 +17,4 @@ I'm a computer engineer. I love playing and making computer games.
 
 **Tools:**
 
-<img src='https://skillicons.dev/icons?i= discord,unity,visualstudio,vscode,git' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/trello.svg' alt='trello' height='50'> <img src='https://skillicons.dev/icons?i=rider' alt='Rider' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='discord' height='50'> 
+<img src='https://skillicons.dev/icons?i=discord,unity,visualstudio,vscode,git' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/trello.svg' alt='trello' height='50'> <img src='https://skillicons.dev/icons?i=rider' alt='Rider' height='50'> <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='discord' height='50'> 
